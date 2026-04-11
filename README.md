@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ravikiran Savai</h1>
+<h3 align="center">A passionate DevOps Engineer from India with 5+ years of experience at Annalect, focusing on AWS, Kubernetes, Cloud Computing, DevOps, and Software Engineering.</h3>
 
-<!--
-**SavaiRavikiran/SavaiRavikiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikiransavai&label=Profile%20views&color=0e75b6&style=flat" alt="ravikiransavai" /> </p>
 
-Here are some ideas to get you started:
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnMycmE2cmFkZ2FweG9vcDU2aGRuZnJnbmRkY2ExbGx0ZmQ4YzdyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cx4A3Kv225gpLYKSsk/giphy.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://twitter.com/eravikiranpatil" target="blank"><img src="https://img.shields.io/twitter/follow/eravikiranpatil?logo=twitter&style=for-the-badge" alt="eravikiranpatil" /></a> </p>
+
+- 🔭 I’m currently working on [GEN-AI01](www.project01.com)
+- 🌱 I’m currently learning **SRE**
+- 👯 I’m looking to collaborate on [GEN-AI02](www.project02.com)
+- 🤝 I’m looking for help with [GEN-AI03](www.project03.com)
+- 👨‍💻 All of my projects are available at [www.portfolio.com](www.portfolio.com)
+- 📝 I regularly write articles on [www.blog.com](www.blog.com)
+- 💬 Ask me about **DevOps, Docker, K8S, Terraform, AWS.**
+- 📫 How to reach me **iitrkp@gmail.com**
+- 📄 Know about my experiences [www.resume.com](www.resume.com)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/eravikiranpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eravikiranpatil" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/senior-devops-engineer-ravikiran-patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senior-devops-engineer-ravikiran-patil" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" /></a>&nbsp;&nbsp;
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50" /></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" /></a>&nbsp;&nbsp;
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" /></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" /></a>&nbsp;&nbsp;
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50" /></a>&nbsp;&nbsp;
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50" /></a>&nbsp;&nbsp;
+  <a href="https://www.Ansible.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" alt="Ansible" width="50" height="50" /></a>&nbsp;&nbsp;
+  <a href="https://www.terraform.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="terraform" width="50" height="50" /></a>&nbsp;&nbsp;
+  <a href="https://www.elastic.co" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="50" height="50" /></a>&nbsp;&nbsp;
+  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="50" height="50" /></a>&nbsp;&nbsp;
+  <a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="50" height="50" /></a>&nbsp;&nbsp;
+  <a href="https://www.prometheus.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-plain-wordmark.svg" alt="prometheus" width="50" height="50" /></a>&nbsp;&nbsp;
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" /></a>&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" /></a>
+</p>
+
+<table style="border: none; width: 100%;">
+  <tr style="border: none;">
+    <td style="border: none; width: 33%;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikiransavai&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ravikiransavai" /></td>
+    <td style="border: none; width: 33%;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ravikiransavai&show_icons=true&locale=en&theme=tokyonight" alt="ravikiransavai" /></td>
+    <td style="border: none; width: 33%;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikiransavai&theme=tokyonight" alt="ravikiransavai" /></td>
+  </tr>
+</table>
