@@ -1,51 +1,207 @@
-<h1 align="center">Hi 👋, I'm Ravikiran Savai</h1>
-<h3 align="center">A passionate DevOps Engineer from India with 5+ years of experience at Annalect, focusing on AWS, Kubernetes, Cloud Computing, DevOps, and Software Engineering.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikiransavai&label=Profile%20views&color=0e75b6&style=flat" alt="ravikiransavai" /> </p>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ravikiran%20Savai&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20DevOps%20Engineer%20%7C%20AI%20%26%20Cloud%20Architect&descAlignY=60&descAlign=50&descSize=18" />
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnMycmE2cmFkZ2FweG9vcDU2aGRuZnJnbmRkY2ExbGx0ZmQ4YzdyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cx4A3Kv225gpLYKSsk/giphy.gif">
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=🚀+7%2B+Years+of+Cloud+%26+DevOps+Excellence;☸️+Kubernetes+%7C+Terraform+%7C+AWS+Specialist;🤖+Building+AI+Agents+for+Platform+Engineering;🔐+On-Prem+Infrastructure+%7C+Security-First+Mindset;📊+AIOps+%7C+Observability+%7C+MLOps+Practitioner" alt="Typing SVG" />
+</a>
 
-<p align="left"> <a href="https://twitter.com/eravikiranpatil" target="blank"><img src="https://img.shields.io/twitter/follow/eravikiranpatil?logo=twitter&style=for-the-badge" alt="eravikiranpatil" /></a> </p>
+<br/>
+<br/>
 
-- 🔭 I’m currently working on [GEN-AI01](www.project01.com)
-- 🌱 I’m currently learning **SRE**
-- 👯 I’m looking to collaborate on [GEN-AI02](www.project02.com)
-- 🤝 I’m looking for help with [GEN-AI03](www.project03.com)
-- 👨‍💻 All of my projects are available at [www.portfolio.com](www.portfolio.com)
-- 📝 I regularly write articles on [www.blog.com](www.blog.com)
-- 💬 Ask me about **DevOps, Docker, K8S, Terraform, AWS.**
-- 📫 How to reach me **iitrkp@gmail.com**
-- 📄 Know about my experiences [www.resume.com](www.resume.com)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/eravikiranpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eravikiranpatil" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/senior-devops-engineer-ravikiran-patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senior-devops-engineer-ravikiran-patil" height="30" width="40" /></a>
+<!-- Profile Views + Social Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=SavaiRavikiran&style=for-the-badge&color=0366d6&label=PROFILE+VIEWS" alt="profile views" />
+  &nbsp;
+  <a href="https://linkedin.com/in/senior-devops-engineer-ravikiran-patil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/eravikiranpatil">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:iitrkp@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" /></a>&nbsp;&nbsp;
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50" /></a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" /></a>&nbsp;&nbsp;
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" /></a>&nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" /></a>&nbsp;&nbsp;
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50" /></a>&nbsp;&nbsp;
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50" /></a>&nbsp;&nbsp;
-  <a href="https://www.Ansible.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" alt="Ansible" width="50" height="50" /></a>&nbsp;&nbsp;
-  <a href="https://www.terraform.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="terraform" width="50" height="50" /></a>&nbsp;&nbsp;
-  <a href="https://www.elastic.co" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="50" height="50" /></a>&nbsp;&nbsp;
-  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="50" height="50" /></a>&nbsp;&nbsp;
-  <a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="50" height="50" /></a>&nbsp;&nbsp;
-  <a href="https://www.prometheus.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-plain-wordmark.svg" alt="prometheus" width="50" height="50" /></a>&nbsp;&nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" /></a>&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" /></a>
-</p>
+</div>
 
-<table style="border: none; width: 100%;">
-  <tr style="border: none;">
-    <td style="border: none; width: 33%;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikiransavai&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ravikiransavai" /></td>
-    <td style="border: none; width: 33%;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ravikiransavai&show_icons=true&locale=en&theme=tokyonight" alt="ravikiransavai" /></td>
-    <td style="border: none; width: 33%;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikiransavai&theme=tokyonight" alt="ravikiransavai" /></td>
-  </tr>
-</table>
+---
+
+## 🧠 About Me
+
+```yaml
+name: Ravikiran Savai
+location: Pune, India 🇮🇳
+role: Senior DevOps Engineer
+company: EPAM Systems
+experience: 7+ years
+
+current_focus:
+  - Building AI Agents for DevOps & Platform Engineering
+  - Designing AIOps platforms (Anomaly Detection, RCA, Forecasting)
+  - On-prem Kubernetes with Cilium/Hubble, MetalLB, HashiCorp Vault
+
+stack:
+  cloud:       [AWS, On-Premise K8s, Multi-region]
+  containers:  [Kubernetes, Docker, Cilium, MetalLB]
+  IaC:         [Terraform, Ansible, CloudBees]
+  observability:[Prometheus, Grafana, ELK Stack]
+  ai:          [Claude API, LangChain, pgvector, RAG Agents]
+  security:    [HashiCorp Vault, RBAC, Zero-Trust Networking]
+
+certifications:
+  - AWS Certified DevOps Engineer – Professional
+  - Certified Kubernetes Administrator (CKA)
+  - HashiCorp Terraform Associate (003)
+  - Prometheus Certified Associate
+  - Python Certified
+
+fun_fact: "I automate the automation — then build AI to watch over all of it 🤖"
+```
+
+---
+
+## 🚀 What I'm Building Right Now
+
+<div align="center">
+
+| 🤖 Project | 📋 Description | 🛠️ Stack |
+|:---:|:---:|:---:|
+| **NexAgent** | Multi-tenant AI Agent SaaS for DevOps, SRE & Architects | Next.js · PostgreSQL · Claude API |
+| **AIOps Platform** | Anomaly Detection, RCA & Alert Reduction | Prometheus · ELK · Grafana · ML |
+| **Module Recommender** | RAG-powered Terraform module recommender | pgvector · Claude · On-prem K8s |
+| **IT Support Agent** | Autonomous incident resolution agent | ServiceNow · GitLab · Prometheus |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🔄 CI/CD & Automation
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### 📊 Observability & Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+
+### 🤖 AI & Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+
+### 🔐 Security & Secrets
+![Vault](https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
+![Cilium](https://img.shields.io/badge/Cilium/Hubble-F8C517?style=for-the-badge&logo=cilium&logoColor=black)
+
+</div>
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+| Badge | Certification | Issuer |
+|:---:|:---|:---:|
+| ☁️ | **AWS Certified DevOps Engineer – Professional** | Amazon Web Services |
+| ☸️ | **Certified Kubernetes Administrator (CKA)** | CNCF |
+| 🟣 | **HashiCorp Terraform Associate (003)** | HashiCorp |
+| 🔥 | **Prometheus Certified Associate** | CNCF |
+| 🐍 | **Python Certified** | — |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SavaiRavikiran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavaiRavikiran&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=false"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=SavaiRavikiran&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D" alt="streak stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SavaiRavikiran&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=4" alt="trophies" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SavaiRavikiran&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="activity graph" />
+</div>
+
+---
+
+## 🧩 My Engineering Philosophy
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   "Automate everything. Observe everything.                  ║
+║    Let AI handle the noise — so humans handle the future."   ║
+║                                                              ║
+║                                    — Ravikiran Savai         ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+If you're building in the **AI × DevOps** space, working on **platform engineering**, or just want to geek out about **Kubernetes internals** — let's talk.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/senior-devops-engineer-ravikiran-patil)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eravikiranpatil)
+&nbsp;
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iitrkp@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+<sub>⚡ Built with passion in Pune, India · Last updated April 2025</sub>
+
+</div>
