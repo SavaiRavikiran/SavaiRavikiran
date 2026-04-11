@@ -36,7 +36,6 @@
 
 ```yaml
 name: Ravikiran Savai
-location: Pune, India 🇮🇳
 role: Senior DevOps Engineer
 company: EPAM Systems
 experience: 7+ years
