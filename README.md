@@ -32,7 +32,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```yaml
 name: Ravikiran Savai
@@ -65,7 +65,7 @@ fun_fact: "I automate the automation — then build AI to watch over all of it �
 
 ---
 
-## 🚀 What I'm Building Right Now
+## What I'm Building Right Now
 
 <div align="center">
 
@@ -80,7 +80,7 @@ fun_fact: "I automate the automation — then build AI to watch over all of it �
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -134,7 +134,7 @@ fun_fact: "I automate the automation — then build AI to watch over all of it �
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SavaiRavikiran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false"/>
@@ -152,7 +152,7 @@ fun_fact: "I automate the automation — then build AI to watch over all of it �
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SavaiRavikiran&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="activity graph" />
@@ -160,7 +160,7 @@ fun_fact: "I automate the automation — then build AI to watch over all of it �
 
 ---
 
-## 🧩 My Engineering Philosophy
+## My Engineering Philosophy
 
 <div align="center">
 
@@ -178,7 +178,7 @@ fun_fact: "I automate the automation — then build AI to watch over all of it �
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 <div align="center">
 
