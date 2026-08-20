@@ -38,7 +38,6 @@
 name: Ravikiran Savai
 role: Senior DevOps Engineer
 company: EPAM Systems
-experience: 7+ years
 
 current_focus:
   - Building AI Agents for DevOps & Platform Engineering
