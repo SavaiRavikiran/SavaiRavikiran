@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=🚀+Senior+DevOps+Engineer;☸️+Kubernetes+%7C+Terraform+%7C+AWS;🤖+AI+%26+Platform+Engineering;📊+AIOps+%7C+Observability+Expert" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=🚀+Senior+DevOps+Engineer;☸️+Kubernetes+%7C+Terraform+%7C+AWS;🤖+AI+%26+Platform+Engineering;📊+AIOps+%7C+Observability+Expert" />
 </a>
 
 <br/>
@@ -200,6 +200,6 @@ If you're building in the **AI × DevOps** space, working on **platform engineer
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
-<sub>⚡ Built with passion in Pune, India · Last updated April 2025</sub>
+<sub>⚡ Built with passion in Pune, India · Last updated November 2025</sub>
 
 </div>
